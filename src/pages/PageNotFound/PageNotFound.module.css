@@ -1,0 +1,15 @@
+.container {
+    background: black;
+    padding-top: 4rem;
+    width: 100%;
+    height: auto;
+    color: white;
+    text-align: center;
+}
+
+.container img {
+    padding: auto;
+    width: 85%;
+    height: 700px;
+    padding-top: 1px;
+}

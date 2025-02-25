@@ -1,0 +1,30 @@
+
+.header {
+    background-color: rgba(0, 0, 0, 0.7);
+    border-bottom: 2px solid rgb(255, 255, 255);
+    position: fixed;
+    top: 0;
+    width: 100%;
+    display: flex;
+    padding: 0.75rem;
+    font-size: 1.8rem;
+    align-items: center;
+    justify-content: space-around;
+}
+
+.header span {
+    font-size: 2rem;
+    color: rgb(255, 255, 255);
+    font-weight: 450;
+}
+
+/* .header nav {
+    margin-right: 4rem;
+} */
+.header a {
+    text-decoration: line;
+    color: rgb(255, 255, 255);
+    padding-inline: 0.75rem;
+
+
+};
